@@ -10,8 +10,7 @@ Um buzzer para respostas usando efeito sonoro
 Um módulo NodeMcu Esp8266 conectado via usb, responsável por fazer a intermediação entre relógios de pontos filias usando a conexão a rádio dos módulos Lora.
 
 <p align="center">
-  <img src=https://github.com/pkaislan123/RelogioDePontoRaspberryEPython/blob/main/relogio%20em%20funcionamento.jpg width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src=https://github.com/pkaislan123/RelogioDePontoRaspberryEPython/blob/main/relogio%20em%20funcionamento.jpg title="hover text">
 </p>
 
 
