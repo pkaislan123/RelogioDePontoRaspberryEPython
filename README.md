@@ -8,3 +8,5 @@ Um teclado matricial 4x4 para Interface IHM, nele é possível efetuar operaçõ
 Um sensor RFID para leitura da tag ou cartão de ponto
 Um buzzer para respostas usando efeito sonoro
 Um módulo NodeMcu Esp8266 conectado via usb, responsável por fazer a intermediação entre relógios de pontos filias usando a conexão a rádio dos módulos Lora.
+
+https://github.com/pkaislan123/RelogioDePontoRaspberryEPython/blob/main/relogio%20em%20funcionamento.jpg
