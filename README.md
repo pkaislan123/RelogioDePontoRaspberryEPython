@@ -33,4 +33,14 @@ O uso do Raspberry Pi aliado ao NodeMCU proporciona um equilíbrio ideal entre p
   <img src=https://github.com/pkaislan123/RelogioDePontoRaspberryEPython/blob/main/relogio%20em%20funcionamento.jpg title="hover text">
 </p>
 
+<p align="center">
+  <img src=https://github.com/pkaislan123/RelogioDePontoRaspberryEPython/blob/main/capa_rh_smartphone.dc3a40a84cc820960f70.png title="hover text">
+</p>
+
+
+<p align="center">
+  <img src=https://github.com/pkaislan123/RelogioDePontoRaspberryEPython/blob/main/capa_rh.fc529e62cfa5df45ca0e.png title="hover text">
+</p>
+
+
 
